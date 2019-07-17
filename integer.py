@@ -1,2 +1,2 @@
-vizh=input()
-print(len(vizh))
+vizhali2=input()
+print(len(vizhali2))
