@@ -1,5 +1,5 @@
 vizh=int(input())
-f2=0
+pop3=0
 for m in range(1,vizh+1):
- f2=f2+z
-print(f2)
+ pop3=pop3+z
+print(pop3)
